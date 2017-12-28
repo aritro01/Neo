@@ -1,3 +1,8 @@
 #login_form {
     margin-top: 35px;
 }
+
+.login-page {
+    max-width: 360px;
+    alignment: center;
+}
